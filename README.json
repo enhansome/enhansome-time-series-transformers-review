@@ -53,7 +53,7 @@
             "last_commit": "2024-08-12T13:12:51Z",
             "owner": "yuqinie98",
             "repo": "PatchTST",
-            "stars": 2676
+            "stars": 2678
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2023-08-16T15:44:55Z",
             "owner": "MAZiqing",
             "repo": "FEDformer",
-            "stars": 816
+            "stars": 815
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2023-02-19T15:06:53Z",
             "owner": "mlpotter",
             "repo": "Transformer_Time_Series",
-            "stars": 599
+            "stars": 598
           }
         },
         {
@@ -525,7 +525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:31:52.816Z",
+    "last_updated": "2026-08-13T14:47:33.396Z",
     "original_repository": "qingsongedu/time-series-transformers-review",
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
     "enhanced_repository": "enhansome/enhansome-time-series-transformers-review",
