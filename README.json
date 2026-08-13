@@ -1,0 +1,535 @@
+{
+  "items": [
+    {
+      "description": "Transformers in Time Series: A Survey (IJCAI'23 Survey Track)\nQingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan and Liang Sun.",
+      "items": [],
+      "title": "Survey paper"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "If you find this repository helpful for your work, please kindly cite our survey paper."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Taxonomy of Transformers for time series modeling"
+    },
+    {
+      "description": "[official code]",
+      "items": [],
+      "title": "Application Domains of Time Series Transformers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Transformers in Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Informer: Beyond efficient transformer for long sequence time-series forecasting, in AAAI 2021. [paper]",
+          "description": "[official code] [dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T06:42:54Z",
+            "owner": "zhouhaoyi",
+            "repo": "Informer2020",
+            "stars": 6515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in ICLR 2023. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T13:12:51Z",
+            "owner": "yuqinie98",
+            "repo": "PatchTST",
+            "stars": 2676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting, in NeurIPS 2021. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-28T01:14:54Z",
+            "owner": "thuml",
+            "repo": "Autoformer",
+            "stars": 2480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting, in ICML 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-16T15:44:55Z",
+            "owner": "MAZiqing",
+            "repo": "FEDformer",
+            "stars": 816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting, in NeurIPS 2019. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-19T15:06:53Z",
+            "owner": "mlpotter",
+            "repo": "Transformer_Time_Series",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting, in ICLR 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-02T06:43:47Z",
+            "owner": "ant-research",
+            "repo": "Pyraformer",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temporal fusion transformers for interpretable multi-horizon time series forecasting, in International Journal of Forecasting 2021. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-02-11T12:34:33Z",
+            "owner": "mattsherar",
+            "repo": "Temporal_Fusion_Transform",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in ICLR 2024. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T15:18:58Z",
+            "owner": "decisionintelligence",
+            "repo": "pathformer",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial sparse transformer for time series forecasting, in NeurIPS 2020. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-05T01:37:22Z",
+            "owner": "hihihihiwsf",
+            "repo": "AST",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting, in ICLR 2024. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T20:06:02Z",
+            "owner": "wxie9",
+            "repo": "CARD",
+            "stars": 98
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Earthformer: Exploring Space-Time Transformers for Earth System Forecasting, in NeurIPS 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-16T05:55:00Z",
+            "owner": "amazon-science",
+            "repo": "earth-forecasting-transformer",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatio-temporal graph transformer networks for pedestrian trajectory prediction, in ECCV 2020. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-04T16:12:40Z",
+            "owner": "cunjunyu",
+            "repo": "STAR",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirFormer: Predicting Nationwide Air Quality in China with Transformers, in AAAI 2023. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-29T08:36:55Z",
+            "owner": "yoshall",
+            "repo": "AirFormer",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial-temporal transformer networks for traffic flow forecasting, in arXiv 2020. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-17T10:06:50Z",
+            "owner": "xumingxingsjtu",
+            "repo": "STTN",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "Spatio-Temporal Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Transformer Hawkes process, in ICML 2020. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-04T01:21:15Z",
+            "owner": "SimiaoZuo",
+            "repo": "Transformer-Hawkes-Process",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-attentive Hawkes process, in ICML 2020. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-25T05:57:03Z",
+            "owner": "QiangAIResearcher",
+            "repo": "sahp_repo",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transformer Embeddings of Irregularly Spaced Events and Their Participants, in ICLR 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-12-28T17:20:49Z",
+            "owner": "yangalan123",
+            "repo": "anhp-andtt",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences，in NeurIPS 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-20T01:37:42Z",
+            "owner": "alipay",
+            "repo": "hypro_tpp",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Event Irregular Time Series Modeling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy, in ICLR 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-29T11:36:58Z",
+            "owner": "thuml",
+            "repo": "Anomaly-Transformer",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data, in VLDB 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T11:06:31Z",
+            "owner": "imperial-qore",
+            "repo": "TranAD",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning graph structures with transformer for multivariate time series anomaly detection in IoT, in IEEE Internet of Things Journal 2021. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-17T20:06:47Z",
+            "owner": "zackchen-lb",
+            "repo": "GTA",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences, in KDD 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-20T06:16:58Z",
+            "owner": "mmichaelzhang",
+            "repo": "CAT",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Transformers in Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A transformer-based framework for multivariate time series representation learning, in KDD 2021. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T05:11:11Z",
+            "owner": "gzerveas",
+            "repo": "mvts_transformer",
+            "stars": 873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-attention for raw optical satellite time series classification, in ISPRS Journal of Photogrammetry and Remote Sensing 2020. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T10:57:32Z",
+            "owner": "MarcCoru",
+            "repo": "crop-type-mapping",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gated Transformer Networks for Multivariate Time Series Classification, in arXiv 2021. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-09T08:03:49Z",
+            "owner": "ZZUFaceBookDL",
+            "repo": "GTN",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Transformer for Sparse and Irregularly Sampled Multivariate Clinical Time-Series, in ACM TKDD 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-03T20:02:50Z",
+            "owner": "sindhura97",
+            "repo": "STraTS",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice2series: Reprogramming acoustic models for time series classification, in ICML 2021. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-12T19:37:47Z",
+            "owner": "huckiyang",
+            "repo": "Voice2Series-Reprogramming",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TARNet : Task-Aware Reconstruction for Time-Series Transformer, in KDD 2022. [paper]",
+          "description": "[official code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-06T03:53:01Z",
+            "owner": "ranakroychowdhury",
+            "repo": "TARNet",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Transformers in Classification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "More related time series surveys, tutorials, and papers can be found at this repo",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-06T21:11:38Z",
+            "owner": "qingsongedu",
+            "repo": "awesome-AI-for-time-series-papers",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in arXiv 2023. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-22T08:19:51Z",
+            "owner": "qingsongedu",
+            "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
+            "stars": 1221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in arXiv 2023. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-09T11:31:08Z",
+            "owner": "KimMeen",
+            "repo": "Awesome-GNN4TS",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning for Multivariate Time Series Imputation: A Survey, in arXiv 2024. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T09:24:28Z",
+            "owner": "WenjieDu",
+            "repo": "Awesome_Imputation",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in arXiv 2023. [paper]",
+          "description": "[Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-28T23:43:39Z",
+            "owner": "qingsongedu",
+            "repo": "Awesome-SSL4TS",
+            "stars": 382
+          }
+        }
+      ],
+      "title": "Time Series Related Survey"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:31:52.816Z",
+    "original_repository": "qingsongedu/time-series-transformers-review",
+    "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
+    "enhanced_repository": "enhansome/enhansome-time-series-transformers-review",
+    "enhanced_repository_description": null,
+    "title": "Awesome Transformers in Time Series with stars"
+  }
+}
