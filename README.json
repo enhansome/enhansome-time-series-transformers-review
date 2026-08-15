@@ -39,7 +39,7 @@
             "last_commit": "2025-06-20T06:42:54Z",
             "owner": "zhouhaoyi",
             "repo": "Informer2020",
-            "stars": 6515
+            "stars": 6514
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2023-12-29T11:36:58Z",
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1037
+            "stars": 1038
           }
         },
         {
@@ -525,7 +525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:42:22.543Z",
+    "last_updated": "2026-08-15T14:03:24.915Z",
     "original_repository": "qingsongedu/time-series-transformers-review",
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
     "enhanced_repository": "enhansome/enhansome-time-series-transformers-review",
