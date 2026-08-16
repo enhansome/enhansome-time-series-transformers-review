@@ -53,7 +53,7 @@
             "last_commit": "2024-08-12T13:12:51Z",
             "owner": "yuqinie98",
             "repo": "PatchTST",
-            "stars": 2680
+            "stars": 2681
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2025-02-28T01:14:54Z",
             "owner": "thuml",
             "repo": "Autoformer",
-            "stars": 2478
+            "stars": 2479
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2023-02-19T15:06:53Z",
             "owner": "mlpotter",
             "repo": "Transformer_Time_Series",
-            "stars": 598
+            "stars": 599
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2023-07-16T05:55:00Z",
             "owner": "amazon-science",
             "repo": "earth-forecasting-transformer",
-            "stars": 466
+            "stars": 467
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2024-04-04T01:21:15Z",
             "owner": "SimiaoZuo",
             "repo": "Transformer-Hawkes-Process",
-            "stars": 202
+            "stars": 203
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-04-29T05:11:11Z",
             "owner": "gzerveas",
             "repo": "mvts_transformer",
-            "stars": 873
+            "stars": 874
           }
         },
         {
@@ -461,7 +461,7 @@
             "last_commit": "2024-04-06T21:11:38Z",
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
-            "stars": 1620
+            "stars": 1621
           }
         },
         {
@@ -475,7 +475,7 @@
             "last_commit": "2024-12-22T08:19:51Z",
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1221
+            "stars": 1222
           }
         },
         {
@@ -503,7 +503,7 @@
             "last_commit": "2026-08-03T09:24:28Z",
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 425
+            "stars": 426
           }
         },
         {
@@ -525,7 +525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:03:24.915Z",
+    "last_updated": "2026-08-16T14:08:18.142Z",
     "original_repository": "qingsongedu/time-series-transformers-review",
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
     "enhanced_repository": "enhansome/enhansome-time-series-transformers-review",
