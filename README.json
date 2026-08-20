@@ -34,7 +34,7 @@
                     "last_commit": "2024-08-12T13:12:51Z",
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2681
+                    "stars": 2682
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2025-02-28T01:14:54Z",
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2480
+                    "stars": 2481
                   }
                 },
                 {
@@ -315,7 +315,7 @@
                 "last_commit": "2023-12-29T11:36:58Z",
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1038
+                "stars": 1037
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2024-07-25T11:06:31Z",
                 "owner": "imperial-qore",
                 "repo": "TranAD",
-                "stars": 699
+                "stars": 698
               }
             },
             {
@@ -513,7 +513,7 @@
             "last_commit": "2024-08-09T11:31:08Z",
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 864
+            "stars": 865
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-03T09:24:28Z",
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 426
+            "stars": 427
           }
         },
         {
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:19:20.511Z",
+    "last_updated": "2026-08-20T14:22:25.816Z",
     "original_repository": "qingsongedu/time-series-transformers-review",
     "original_repository_id": 464704193,
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
