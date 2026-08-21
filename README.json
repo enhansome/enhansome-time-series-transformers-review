@@ -19,7 +19,7 @@
                     "last_commit": "2025-06-20T06:42:54Z",
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6513
+                    "stars": 6514
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2024-08-12T13:12:51Z",
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2682
+                    "stars": 2683
                   }
                 },
                 {
@@ -124,7 +124,7 @@
                     "last_commit": "2024-08-14T15:18:58Z",
                     "owner": "decisionintelligence",
                     "repo": "pathformer",
-                    "stars": 267
+                    "stars": 268
                   }
                 },
                 {
@@ -206,7 +206,7 @@
                     "last_commit": "2022-12-29T08:36:55Z",
                     "owner": "yoshall",
                     "repo": "AirFormer",
-                    "stars": 164
+                    "stars": 165
                   }
                 },
                 {
@@ -243,7 +243,7 @@
                     "last_commit": "2024-04-04T01:21:15Z",
                     "owner": "SimiaoZuo",
                     "repo": "Transformer-Hawkes-Process",
-                    "stars": 203
+                    "stars": 204
                   }
                 },
                 {
@@ -330,7 +330,7 @@
                 "last_commit": "2024-07-25T11:06:31Z",
                 "owner": "imperial-qore",
                 "repo": "TranAD",
-                "stars": 698
+                "stars": 699
               }
             },
             {
@@ -483,7 +483,7 @@
             "last_commit": "2024-04-06T21:11:38Z",
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
-            "stars": 1621
+            "stars": 1623
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2024-12-22T08:19:51Z",
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1222
+            "stars": 1221
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2024-08-09T11:31:08Z",
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 865
+            "stars": 864
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-03T09:24:28Z",
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 427
+            "stars": 425
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2024-04-28T23:43:39Z",
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 383
+            "stars": 382
           }
         }
       ],
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:22:25.816Z",
+    "last_updated": "2026-08-21T14:20:42.537Z",
     "original_repository": "qingsongedu/time-series-transformers-review",
     "original_repository_id": 464704193,
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
