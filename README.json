@@ -79,7 +79,7 @@
                     "last_commit": "2023-02-19T15:06:53Z",
                     "owner": "mlpotter",
                     "repo": "Transformer_Time_Series",
-                    "stars": 599
+                    "stars": 600
                   }
                 },
                 {
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:20:42.537Z",
+    "last_updated": "2026-08-22T14:02:21.889Z",
     "original_repository": "qingsongedu/time-series-transformers-review",
     "original_repository_id": 464704193,
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
