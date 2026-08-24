@@ -46,8 +46,8 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Time Series Forecasting
 
-* Informer: Beyond efficient transformer for long sequence time-series forecasting, in *AAAI* 2021. [\[paper\]](https://www.aaai.org/AAAI21Papers/AAAI-7346.ZhouHaoyi.pdf) [\[official code\]](https://github.com/zhouhaoyi/Informer2020) ⭐ 6,514 | 🐛 191 | 🌐 Python | 📅 2025-06-20 [\[dataset\]](https://github.com/zhouhaoyi/ETDataset) ⭐ 975 | 🐛 9 | 📅 2021-06-04
-* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[code\]](https://github.com/yuqinie98/PatchTST) ⭐ 2,685 | 🐛 60 | 🌐 Python | 📅 2024-08-12
+* Informer: Beyond efficient transformer for long sequence time-series forecasting, in *AAAI* 2021. [\[paper\]](https://www.aaai.org/AAAI21Papers/AAAI-7346.ZhouHaoyi.pdf) [\[official code\]](https://github.com/zhouhaoyi/Informer2020) ⭐ 6,516 | 🐛 191 | 🌐 Python | 📅 2025-06-20 [\[dataset\]](https://github.com/zhouhaoyi/ETDataset) ⭐ 975 | 🐛 9 | 📅 2021-06-04
+* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[code\]](https://github.com/yuqinie98/PatchTST) ⭐ 2,686 | 🐛 60 | 🌐 Python | 📅 2024-08-12
 * Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting, in *NeurIPS* 2021. [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html) [\[official code\]](https://github.com/thuml/autoformer) ⭐ 2,481 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-02-28
 * FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting, in *ICML* 2022. [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer) ⭐ 815 | 🐛 13 | 🌐 Python | 📅 2023-08-16
 * Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting, in *NeurIPS* 2019. [\[paper\]](https://proceedings.neurips.cc/paper/2019/hash/6775a0635c302542da2c32aa19d86be0-Abstract.html) [\[code\]](https://github.com/mlpotter/Transformer_Time_Series) ⭐ 600 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-02-19
@@ -110,7 +110,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 * A transformer-based framework for multivariate time series representation learning, in *KDD* 2021. [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 874 | 🐛 35 | 🌐 Python | 📅 2026-04-29
 * Self-attention for raw optical satellite time series classification, in *ISPRS Journal of Photogrammetry and Remote Sensing* 2020. [\[paper\]](https://arxiv.org/abs/1910.10536) [\[official code\]](https://github.com/marccoru/crop-type-mapping) ⭐ 168 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-07-25
-* Gated Transformer Networks for Multivariate Time Series Classification, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2103.14438) [\[official code\]](https://github.com/ZZUFaceBookDL/GTN) ⭐ 159 | 🐛 7 | 🌐 Python | 📅 2023-05-09
+* Gated Transformer Networks for Multivariate Time Series Classification, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2103.14438) [\[official code\]](https://github.com/ZZUFaceBookDL/GTN) ⭐ 160 | 🐛 7 | 🌐 Python | 📅 2023-05-09
 * Self-Supervised Transformer for Sparse and Irregularly Sampled Multivariate Clinical Time-Series, in *ACM TKDD* 2022. [\[paper\]](https://arxiv.org/abs/2107.14293) [\[official code\]](https://github.com/sindhura97/STraTS) ⭐ 88 | 🐛 4 | 🌐 Python | 📅 2024-08-03
 * Voice2series: Reprogramming acoustic models for time series classification, in *ICML* 2021. [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming) ⭐ 72 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-12
 * TARNet : Task-Aware Reconstruction for Time-Series Transformer, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539329) [\[official code\]](https://github.com/ranakroychowdhury/TARNet) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2023-02-06
@@ -161,4 +161,4 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
