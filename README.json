@@ -34,7 +34,7 @@
                     "last_commit": "2024-08-12T13:12:51Z",
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2686
+                    "stars": 2685
                   }
                 },
                 {
@@ -315,7 +315,7 @@
                 "last_commit": "2023-12-29T11:36:58Z",
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1037
+                "stars": 1038
               }
             },
             {
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:30:59.107Z",
+    "last_updated": "2026-08-26T14:30:13.807Z",
     "original_repository": "qingsongedu/time-series-transformers-review",
     "original_repository_id": 464704193,
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
