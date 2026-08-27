@@ -34,7 +34,7 @@
                     "last_commit": "2024-08-12T13:12:51Z",
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2685
+                    "stars": 2686
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2025-02-28T01:14:54Z",
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2481
+                    "stars": 2482
                   }
                 },
                 {
@@ -551,9 +551,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:30:13.807Z",
-    "original_repository": "qingsongedu/time-series-transformers-review",
-    "original_repository_id": 464704193,
+    "last_updated": "2026-08-27T12:09:16.471Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 464704193,
+      "language": null,
+      "last_commit": "2024-08-08T15:03:54Z",
+      "owner": "qingsongedu",
+      "repo": "time-series-transformers-review",
+      "stars": 3003
+    },
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
     "enhanced_repository": "enhansome/enhansome-time-series-transformers-review",
     "enhanced_repository_description": null,
