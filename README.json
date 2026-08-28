@@ -19,8 +19,9 @@
                     "last_commit": "2025-06-20T06:42:54Z",
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6516
-                  }
+                    "stars": 6517
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2024-08-12T13:12:51Z",
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2687
-                  }
+                    "stars": 2688
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -49,8 +51,9 @@
                     "last_commit": "2025-02-28T01:14:54Z",
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2482
-                  }
+                    "stars": 2481
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "MAZiqing",
                     "repo": "FEDformer",
                     "stars": 816
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "mlpotter",
                     "repo": "Transformer_Time_Series",
                     "stars": 600
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "ant-research",
                     "repo": "Pyraformer",
                     "stars": 304
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -110,7 +116,8 @@
                     "owner": "mattsherar",
                     "repo": "Temporal_Fusion_Transform",
                     "stars": 291
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -125,7 +132,8 @@
                     "owner": "decisionintelligence",
                     "repo": "pathformer",
                     "stars": 268
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -140,7 +148,8 @@
                     "owner": "hihihihiwsf",
                     "repo": "AST",
                     "stars": 140
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -155,7 +164,8 @@
                     "owner": "wxie9",
                     "repo": "CARD",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 }
               ],
               "description": null,
@@ -177,7 +187,8 @@
                     "owner": "amazon-science",
                     "repo": "earth-forecasting-transformer",
                     "stars": 467
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -192,7 +203,8 @@
                     "owner": "cunjunyu",
                     "repo": "STAR",
                     "stars": 436
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -207,7 +219,8 @@
                     "owner": "yoshall",
                     "repo": "AirFormer",
                     "stars": 166
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "xumingxingsjtu",
                     "repo": "STTN",
                     "stars": 113
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 }
               ],
               "description": null,
@@ -244,7 +258,8 @@
                     "owner": "SimiaoZuo",
                     "repo": "Transformer-Hawkes-Process",
                     "stars": 204
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +274,8 @@
                     "owner": "QiangAIResearcher",
                     "repo": "sahp_repo",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -274,7 +290,8 @@
                     "owner": "yangalan123",
                     "repo": "anhp-andtt",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 },
                 {
                   "node_type": "item",
@@ -289,7 +306,8 @@
                     "owner": "alipay",
                     "repo": "hypro_tpp",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:13:31.395Z"
                 }
               ],
               "description": null,
@@ -316,7 +334,8 @@
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
                 "stars": 1038
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "imperial-qore",
                 "repo": "TranAD",
                 "stars": 699
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "zackchen-lb",
                 "repo": "GTA",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "mmichaelzhang",
                 "repo": "CAT",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             }
           ],
           "description": null,
@@ -383,7 +405,8 @@
                 "owner": "gzerveas",
                 "repo": "mvts_transformer",
                 "stars": 874
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "MarcCoru",
                 "repo": "crop-type-mapping",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "ZZUFaceBookDL",
                 "repo": "GTN",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "sindhura97",
                 "repo": "STraTS",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "huckiyang",
                 "repo": "Voice2Series-Reprogramming",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             },
             {
               "node_type": "item",
@@ -458,7 +485,8 @@
                 "owner": "ranakroychowdhury",
                 "repo": "TARNet",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:13:31.395Z"
             }
           ],
           "description": null,
@@ -484,7 +512,8 @@
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
             "stars": 1623
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.395Z"
         },
         {
           "node_type": "item",
@@ -499,7 +528,8 @@
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
             "stars": 1222
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.395Z"
         },
         {
           "node_type": "item",
@@ -514,7 +544,8 @@
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
             "stars": 863
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.395Z"
         },
         {
           "node_type": "item",
@@ -529,7 +560,8 @@
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.395Z"
         },
         {
           "node_type": "item",
@@ -543,15 +575,16 @@
             "last_commit": "2024-04-28T23:43:39Z",
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 382
-          }
+            "stars": 383
+          },
+          "first_seen": "2026-08-28T23:13:31.395Z"
         }
       ],
       "title": "Time Series Related Survey"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:43.294Z",
+    "last_updated": "2026-08-28T23:13:31.395Z",
     "original_repository_info": {
       "archived": false,
       "id": 464704193,
@@ -559,7 +592,7 @@
       "last_commit": "2024-08-08T15:03:54Z",
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3003
+      "stars": 3004
     },
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
     "enhanced_repository": "enhansome/enhansome-time-series-transformers-review",
