@@ -14,12 +14,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The GitHub repository for the paper \"Informer\" accepted by AAAI 2021.",
+                    "homepage": null,
                     "id": 319265460,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-20T06:42:54Z",
+                    "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6517
+                    "stars": 6517,
+                    "topics": [
+                      "deep-learning",
+                      "forecasting",
+                      "pytorch",
+                      "self-attention",
+                      "time-series",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -30,12 +42,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An offical implementation of PatchTST: \"A Time Series is Worth 64 Words: Long-term Forecasting with Transformers.\" (ICLR 2023) https://arxiv.org/abs/2211.14730",
+                    "homepage": null,
                     "id": 557199583,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-12T13:12:51Z",
+                    "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2688
+                    "stars": 2688,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -46,12 +63,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "About Code release for \"Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting\" (NeurIPS 2021), https://arxiv.org/abs/2106.13008",
+                    "homepage": null,
                     "id": 420947391,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-02-28T01:14:54Z",
+                    "open_issues": 8,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2481
+                    "stars": 2481,
+                    "topics": [
+                      "deep-learning",
+                      "time-series"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -62,12 +87,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 451427970,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-08-16T15:44:55Z",
+                    "open_issues": 13,
                     "owner": "MAZiqing",
                     "repo": "FEDformer",
-                    "stars": 816
+                    "stars": 816,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -78,12 +108,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting (NeurIPS 2019)",
+                    "homepage": null,
                     "id": 290229144,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-02-19T15:06:53Z",
+                    "open_issues": 3,
                     "owner": "mlpotter",
                     "repo": "Transformer_Time_Series",
-                    "stars": 600
+                    "stars": 600,
+                    "topics": [
+                      "attention",
+                      "lstm",
+                      "time-series",
+                      "transformer",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -94,12 +135,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 470051049,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-06-02T06:43:47Z",
+                    "open_issues": 29,
                     "owner": "ant-research",
                     "repo": "Pyraformer",
-                    "stars": 304
+                    "stars": 304,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -110,12 +156,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch Implementation of Google's TFT",
+                    "homepage": null,
                     "id": 233273502,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2020-02-11T12:34:33Z",
+                    "open_issues": 12,
                     "owner": "mattsherar",
                     "repo": "Temporal_Fusion_Transform",
-                    "stars": 291
+                    "stars": 291,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -126,12 +177,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 766886867,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-14T15:18:58Z",
+                    "open_issues": 18,
                     "owner": "decisionintelligence",
                     "repo": "pathformer",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -142,12 +198,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adversarial Sparse Transformer for Time Series Forecasting",
+                    "homepage": null,
                     "id": 305689960,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-01-05T01:37:22Z",
+                    "open_issues": 10,
                     "owner": "hihihihiwsf",
                     "repo": "AST",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -158,12 +219,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 640844412,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-02-21T20:06:02Z",
+                    "open_issues": 3,
                     "owner": "wxie9",
                     "repo": "CARD",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 }
@@ -181,12 +247,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of Earthformer",
+                    "homepage": null,
                     "id": 535872974,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-16T05:55:00Z",
+                    "open_issues": 17,
                     "owner": "amazon-science",
                     "repo": "earth-forecasting-transformer",
-                    "stars": 467
+                    "stars": 467,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -197,12 +268,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2020] Code for \"Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction\"",
+                    "homepage": null,
                     "id": 279504133,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-04T16:12:40Z",
+                    "open_issues": 14,
                     "owner": "cunjunyu",
                     "repo": "STAR",
-                    "stars": 436
+                    "stars": 436,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -213,12 +289,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of AirFormer, AAAI-23",
+                    "homepage": null,
                     "id": 571442645,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-12-29T08:36:55Z",
+                    "open_issues": 5,
                     "owner": "yoshall",
                     "repo": "AirFormer",
-                    "stars": 166
+                    "stars": 166,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -229,12 +310,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official code for \"Spatial temporal transformer networks for traffic flow forecasting\"",
+                    "homepage": null,
                     "id": 419512351,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-17T10:06:50Z",
+                    "open_issues": 2,
                     "owner": "xumingxingsjtu",
                     "repo": "STTN",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": [
+                      "traffic-network-analysis",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 }
@@ -252,12 +341,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Transformer Hawkes Process, ICML 2020.",
+                    "homepage": null,
                     "id": 274470290,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-04T01:21:15Z",
+                    "open_issues": 17,
                     "owner": "SimiaoZuo",
                     "repo": "Transformer-Hawkes-Process",
-                    "stars": 204
+                    "stars": 204,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -268,12 +362,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 272065200,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-08-25T05:57:03Z",
+                    "open_issues": 5,
                     "owner": "QiangAIResearcher",
                     "repo": "sahp_repo",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -284,12 +383,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Codebase for Attentive Neural Hawkes Process (A-NHP) and Attentive Neural Datalog Through Time (A-NDTT)",
+                    "homepage": null,
                     "id": 443110160,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-28T17:20:49Z",
+                    "open_issues": 0,
                     "owner": "yangalan123",
                     "repo": "anhp-andtt",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 },
@@ -300,12 +404,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch Implementation of Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequence, NeurIPS 2022",
+                    "homepage": null,
                     "id": 567645122,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-11-20T01:37:42Z",
+                    "open_issues": 2,
                     "owner": "alipay",
                     "repo": "hypro_tpp",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
                 }
@@ -328,12 +437,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "About Code release for \"Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy\" (ICLR 2022 Spotlight), https://openreview.net/forum?id=LzQQ89U1qm_",
+                "homepage": null,
                 "id": 484269010,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-29T11:36:58Z",
+                "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1038
+                "stars": 1038,
+                "topics": [
+                  "anomaly-detection",
+                  "deep-learning",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             },
@@ -344,12 +462,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[VLDB'22] Anomaly Detection using Transformers, self-conditioning and adversarial training.",
+                "homepage": null,
                 "id": 343344143,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-07-25T11:06:31Z",
+                "open_issues": 2,
                 "owner": "imperial-qore",
                 "repo": "TranAD",
-                "stars": 699
+                "stars": 699,
+                "topics": [
+                  "adversarial-learning",
+                  "anomaly-detection",
+                  "multi-head-attention",
+                  "transformer-models",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             },
@@ -360,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT",
+                "homepage": null,
                 "id": 449022972,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-17T20:06:47Z",
+                "open_issues": 14,
                 "owner": "zackchen-lb",
                 "repo": "GTA",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             },
@@ -376,12 +510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Content-Aware Transformer",
+                "homepage": null,
                 "id": 458079193,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-20T06:16:58Z",
+                "open_issues": 1,
                 "owner": "mmichaelzhang",
                 "repo": "CAT",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             }
@@ -399,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multivariate Time Series Transformer, public version",
+                "homepage": null,
                 "id": 374536582,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-29T05:11:11Z",
+                "open_issues": 35,
                 "owner": "gzerveas",
                 "repo": "mvts_transformer",
-                "stars": 874
+                "stars": 874,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             },
@@ -415,12 +559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code to Rußwurm & Körner 2019. Self-Attention for Raw Optical Satellite Time Series Classification",
+                "homepage": null,
                 "id": 220329158,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:57:32Z",
+                "open_issues": 2,
                 "owner": "MarcCoru",
                 "repo": "crop-type-mapping",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             },
@@ -431,12 +580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 350299975,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-09T08:03:49Z",
+                "open_issues": 7,
                 "owner": "ZZUFaceBookDL",
                 "repo": "GTN",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             },
@@ -447,12 +601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 364639533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-03T20:02:50Z",
+                "open_issues": 4,
                 "owner": "sindhura97",
                 "repo": "STraTS",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             },
@@ -463,12 +622,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICML 21 - Voice2Series: Adversarial Reprogramming Acoustic Models for Time Series Classification",
+                "homepage": null,
                 "id": 375123773,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-12T19:37:47Z",
+                "open_issues": 4,
                 "owner": "huckiyang",
                 "repo": "Voice2Series-Reprogramming",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "speech-processing",
+                  "time-series",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             },
@@ -479,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Task-Aware Reconstruction for Time-Series Transformer",
+                "homepage": null,
                 "id": 500631427,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-06T03:53:01Z",
+                "open_issues": 1,
                 "owner": "ranakroychowdhury",
                 "repo": "TARNet",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
             }
@@ -506,12 +681,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.",
+            "homepage": null,
             "id": 499330318,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-06T21:11:38Z",
+            "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
-            "stars": 1623
+            "stars": 1623,
+            "topics": [
+              "anomalydetection",
+              "awesome",
+              "awesome-list",
+              "changepoint-detection",
+              "classification",
+              "data-mining",
+              "deep-learning",
+              "forecasting",
+              "machine-learning",
+              "missing-data",
+              "signal-processing",
+              "spatio-temporal-analysis",
+              "temporal-models",
+              "temporal-point-processes",
+              "timeseries",
+              "timeseries-analysis",
+              "timeseries-forecasting",
+              "timeseries-prediction",
+              "timeseriesclassification",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.395Z"
         },
@@ -522,12 +723,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A professional list on Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series, Spatiotemporal, and Event Data.",
+            "homepage": null,
             "id": 651739863,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-22T08:19:51Z",
+            "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1222
+            "stars": 1222,
+            "topics": [
+              "anomalydetection",
+              "autoscaling",
+              "deeplearning",
+              "forecasting",
+              "foundation-models",
+              "large-language-models",
+              "large-models",
+              "machinelearning",
+              "pre-training",
+              "rca",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.395Z"
         },
@@ -538,12 +756,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TPAMI 2024] Awesome Resources of GNNs for Time Series Analysis (GNN4TS)",
+            "homepage": "https://arxiv.org/abs/2307.03759",
             "id": 655631331,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-09T11:31:08Z",
+            "open_issues": 3,
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 863
+            "stars": 863,
+            "topics": [
+              "awesome",
+              "dynamic-graphs",
+              "graph-neural-networks",
+              "graph-structure-learning",
+              "spatial-temporal-data",
+              "spatial-temporal-forecasting",
+              "survey",
+              "temporal-data",
+              "temporal-graphs",
+              "time-series",
+              "time-series-analysis",
+              "time-series-anomaly-detection",
+              "time-series-classification",
+              "time-series-forecasting",
+              "time-series-imputation"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.395Z"
         },
@@ -554,12 +793,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Deep Learning for Time-Series Imputation, including an unmissable paper and tool list about applying neural networks to impute incomplete time series containing NaN missing values/data",
+            "homepage": null,
             "id": 730745985,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-03T09:24:28Z",
+            "open_issues": 2,
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "benchmark",
+              "data-mining",
+              "deep-learning",
+              "imputation",
+              "incomplete-time-series",
+              "interpolation",
+              "irregular-time-series",
+              "machine-learning",
+              "missing-data",
+              "missing-values",
+              "missingness",
+              "nan",
+              "neural-network",
+              "probablistic",
+              "survey",
+              "time-series",
+              "time-series-imputation"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.395Z"
         },
@@ -570,12 +832,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on Self-Supervised Learning for Time Series (SSL4TS).",
+            "homepage": null,
             "id": 656933468,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-28T23:43:39Z",
+            "open_issues": 0,
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 383
+            "stars": 383,
+            "topics": [
+              "contrastive-learning",
+              "deep-learning",
+              "machine-learning",
+              "review",
+              "self-supervised-learning",
+              "survey",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.395Z"
         }
@@ -584,15 +860,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:31.395Z",
+    "last_updated": "2026-08-29T04:21:28.377Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
+      "homepage": null,
       "id": 464704193,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-08-08T15:03:54Z",
+      "open_issues": 6,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3004
+      "stars": 3004,
+      "topics": [
+        "anomalydetection",
+        "awesome",
+        "classification",
+        "deep-learning",
+        "forecasting",
+        "machine-learning",
+        "review",
+        "survey",
+        "time-series",
+        "time-series-forecasting",
+        "timeseries",
+        "timeseries-analysis",
+        "transformer",
+        "transformers"
+      ]
     },
     "original_repository_sha": "72094e6f49093313378da3c935481d7f8243d77c",
     "enhanced_repository": "enhansome/enhansome-time-series-transformers-review",
