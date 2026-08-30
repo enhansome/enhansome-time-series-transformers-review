@@ -186,7 +186,7 @@
                     "open_issues": 18,
                     "owner": "decisionintelligence",
                     "repo": "pathformer",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -547,7 +547,7 @@
                 "open_issues": 35,
                 "owner": "gzerveas",
                 "repo": "mvts_transformer",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:24:58.058Z",
+    "last_updated": "2026-08-30T17:48:10.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",

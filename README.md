@@ -53,7 +53,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting, in *NeurIPS* 2019. [\[paper\]](https://proceedings.neurips.cc/paper/2019/hash/6775a0635c302542da2c32aa19d86be0-Abstract.html) [\[code\]](https://github.com/mlpotter/Transformer_Time_Series) ⭐ 600 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-02-19
 * Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=0EXmFzUn5I) [\[official code\]](https://github.com/alipay/Pyraformer) ⭐ 304 | 🐛 29 | 🌐 Python | 📅 2022-06-02
 * Temporal fusion transformers for interpretable multi-horizon time series forecasting, in *International Journal of Forecasting* 2021. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0169207021000637) [\[code\]](https://github.com/mattsherar/Temporal_Fusion_Transform) ⭐ 291 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2020-02-11
-* Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer) ⭐ 268 | 🐛 18 | 🌐 Python | 📅 2024-08-14
+* Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=lJkOCMP2aW) [\[official code\]](https://github.com/decisionintelligence/pathformer) ⭐ 269 | 🐛 18 | 🌐 Python | 📅 2024-08-14
 * Adversarial sparse transformer for time series forecasting, in *NeurIPS* 2020. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html) [\[code\]](https://github.com/hihihihiwsf/AST) ⭐ 140 | 🐛 10 | 🌐 Python | 📅 2022-01-05
 * CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=MJksrOhurE) [\[official code\]](https://github.com/wxie9/card) ⭐ 98 | 🐛 3 | 🌐 Python | 📅 2024-02-21
 * GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings, in *ICLR* 2024. [\[paper\]](https://openreview.net/forum?id=c56TWtYp0W)
@@ -108,7 +108,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### Transformers in Classification
 
-* A transformer-based framework for multivariate time series representation learning, in *KDD* 2021. [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 875 | 🐛 35 | 🌐 Python | 📅 2026-04-29
+* A transformer-based framework for multivariate time series representation learning, in *KDD* 2021. [\[paper\]](https://arxiv.org/abs/2010.02803) [\[official code\]](https://github.com/gzerveas/mvts_transformer) ⭐ 876 | 🐛 35 | 🌐 Python | 📅 2026-04-29
 * Self-attention for raw optical satellite time series classification, in *ISPRS Journal of Photogrammetry and Remote Sensing* 2020. [\[paper\]](https://arxiv.org/abs/1910.10536) [\[official code\]](https://github.com/marccoru/crop-type-mapping) ⭐ 168 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-07-25
 * Gated Transformer Networks for Multivariate Time Series Classification, in *arXiv* 2021. [\[paper\]](https://arxiv.org/abs/2103.14438) [\[official code\]](https://github.com/ZZUFaceBookDL/GTN) ⭐ 160 | 🐛 7 | 🌐 Python | 📅 2023-05-09
 * Self-Supervised Transformer for Sparse and Irregularly Sampled Multivariate Clinical Time-Series, in *ACM TKDD* 2022. [\[paper\]](https://arxiv.org/abs/2107.14293) [\[official code\]](https://github.com/sindhura97/STraTS) ⭐ 88 | 🐛 4 | 🌐 Python | 📅 2024-08-03
@@ -161,4 +161,4 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
