@@ -51,7 +51,7 @@
                     "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2693,
+                    "stars": 2692,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -72,7 +72,7 @@
                     "open_issues": 8,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2482,
+                    "stars": 2481,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -96,7 +96,7 @@
                     "open_issues": 13,
                     "owner": "MAZiqing",
                     "repo": "FEDformer",
-                    "stars": 816,
+                    "stars": 815,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -350,7 +350,7 @@
                     "open_issues": 17,
                     "owner": "SimiaoZuo",
                     "repo": "Transformer-Hawkes-Process",
-                    "stars": 204,
+                    "stars": 205,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -446,7 +446,7 @@
                 "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1040,
+                "stars": 1041,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:27:58.115Z",
+    "last_updated": "2026-09-02T17:25:25.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 6,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3006,
+      "stars": 3007,
       "topics": [
         "anomalydetection",
         "awesome",

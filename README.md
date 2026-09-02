@@ -47,9 +47,9 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 #### Time Series Forecasting
 
 * Informer: Beyond efficient transformer for long sequence time-series forecasting, in *AAAI* 2021. [\[paper\]](https://www.aaai.org/AAAI21Papers/AAAI-7346.ZhouHaoyi.pdf) [\[official code\]](https://github.com/zhouhaoyi/Informer2020) ⭐ 6,517 | 🐛 191 | 🌐 Python | 📅 2025-06-20 [\[dataset\]](https://github.com/zhouhaoyi/ETDataset) ⭐ 978 | 🐛 9 | 📅 2021-06-04
-* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[code\]](https://github.com/yuqinie98/PatchTST) ⭐ 2,693 | 🐛 60 | 🌐 Python | 📅 2024-08-12
-* Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting, in *NeurIPS* 2021. [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html) [\[official code\]](https://github.com/thuml/autoformer) ⭐ 2,482 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-02-28
-* FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting, in *ICML* 2022. [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer) ⭐ 816 | 🐛 13 | 🌐 Python | 📅 2023-08-16
+* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in *ICLR* 2023. [\[paper\]](https://openreview.net/forum?id=Jbdc0vTOcol) [\[code\]](https://github.com/yuqinie98/PatchTST) ⭐ 2,692 | 🐛 60 | 🌐 Python | 📅 2024-08-12
+* Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting, in *NeurIPS* 2021. [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/bcc0d400288793e8bdcd7c19a8ac0c2b-Abstract.html) [\[official code\]](https://github.com/thuml/autoformer) ⭐ 2,481 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-02-28
+* FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting, in *ICML* 2022. [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/MAZiqing/FEDformer) ⭐ 815 | 🐛 13 | 🌐 Python | 📅 2023-08-16
 * Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting, in *NeurIPS* 2019. [\[paper\]](https://proceedings.neurips.cc/paper/2019/hash/6775a0635c302542da2c32aa19d86be0-Abstract.html) [\[code\]](https://github.com/mlpotter/Transformer_Time_Series) ⭐ 600 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-02-19
 * Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=0EXmFzUn5I) [\[official code\]](https://github.com/alipay/Pyraformer) ⭐ 304 | 🐛 29 | 🌐 Python | 📅 2022-06-02
 * Temporal fusion transformers for interpretable multi-horizon time series forecasting, in *International Journal of Forecasting* 2021. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S0169207021000637) [\[code\]](https://github.com/mattsherar/Temporal_Fusion_Transform) ⭐ 292 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2020-02-11
@@ -86,7 +86,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Event Irregular Time Series Modeling
 
-* Transformer Hawkes process, in *ICML* 2020. [\[paper\]](https://proceedings.mlr.press/v119/zuo20a.html) [\[official code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process) ⭐ 204 | 🐛 17 | 🌐 Python | 📅 2024-04-04
+* Transformer Hawkes process, in *ICML* 2020. [\[paper\]](https://proceedings.mlr.press/v119/zuo20a.html) [\[official code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process) ⭐ 205 | 🐛 17 | 🌐 Python | 📅 2024-04-04
 * Self-attentive Hawkes process, in *ICML* 2020. [\[paper\]](http://proceedings.mlr.press/v119/zhang20q.html) [\[official code\]](https://github.com/QiangAIResearcher/sahp_repo) ⭐ 63 | 🐛 5 | 🌐 Python | 📅 2020-08-25
 * Transformer Embeddings of Irregularly Spaced Events and Their Participants, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=Rty5g9imm7H) [\[official code\]](https://github.com/yangalan123/anhp-andtt) ⚠️ Archived
 * HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences，in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/abs/2210.01753) [\[official code\]](https://github.com/ant-research/hypro_tpp) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2022-11-20
@@ -95,7 +95,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### Transformers in Anomaly Detection
 
-* Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy, in *ICLR* 2022. [\[paper\]](https://arxiv.org/abs/2110.02642) [\[official code\]](https://github.com/thuml/Anomaly-Transformer) ⭐ 1,040 | 🐛 34 | 🌐 Python | 📅 2023-12-29
+* Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy, in *ICLR* 2022. [\[paper\]](https://arxiv.org/abs/2110.02642) [\[official code\]](https://github.com/thuml/Anomaly-Transformer) ⭐ 1,041 | 🐛 34 | 🌐 Python | 📅 2023-12-29
 * TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data, in *VLDB* 2022. [\[paper\]](https://arxiv.org/abs/2201.07284) [\[official code\]](https://github.com/imperial-qore/tranad) ⭐ 700 | 🐛 2 | 🌐 Python | 📅 2024-07-25
 * Learning graph structures with transformer for multivariate time series anomaly detection in IoT, in *IEEE Internet of Things Journal* 2021. [\[paper\]](https://arxiv.org/abs/2104.03466) [\[official code\]](https://github.com/ZEKAICHEN/GTA) ⭐ 159 | 🐛 14 | 🌐 Python | 📅 2022-01-17
 * CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3534678.3539155) [\[official code\]](https://github.com/mmichaelzhang/CAT) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-02-20
@@ -161,4 +161,4 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
