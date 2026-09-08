@@ -23,7 +23,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6517,
+                    "stars": 6516,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -51,7 +51,7 @@
                     "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2696,
+                    "stars": 2697,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -117,7 +117,7 @@
                     "open_issues": 3,
                     "owner": "mlpotter",
                     "repo": "Transformer_Time_Series",
-                    "stars": 600,
+                    "stars": 601,
                     "topics": [
                       "attention",
                       "lstm",
@@ -207,7 +207,7 @@
                     "open_issues": 10,
                     "owner": "hihihihiwsf",
                     "repo": "AST",
-                    "stars": 140,
+                    "stars": 138,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -274,10 +274,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-03-04T16:12:40Z",
-                    "open_issues": 14,
+                    "open_issues": 13,
                     "owner": "cunjunyu",
                     "repo": "STAR",
-                    "stars": 436,
+                    "stars": 435,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -350,7 +350,7 @@
                     "open_issues": 17,
                     "owner": "SimiaoZuo",
                     "repo": "Transformer-Hawkes-Process",
-                    "stars": 205,
+                    "stars": 206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -547,7 +547,7 @@
                 "open_issues": 35,
                 "owner": "gzerveas",
                 "repo": "mvts_transformer",
-                "stars": 875,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
@@ -765,7 +765,7 @@
             "open_issues": 3,
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "awesome",
               "dynamic-graphs",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:25:40.773Z",
+    "last_updated": "2026-09-08T17:35:11.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
