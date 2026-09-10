@@ -72,7 +72,7 @@
                     "open_issues": 8,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2481,
+                    "stars": 2482,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:20:33.447Z",
+    "last_updated": "2026-09-10T17:17:55.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 6,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3008,
+      "stars": 3009,
       "topics": [
         "anomalydetection",
         "awesome",
