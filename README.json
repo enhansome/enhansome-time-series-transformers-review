@@ -51,7 +51,7 @@
                     "open_issues": 60,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2700,
+                    "stars": 2702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -690,7 +690,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
-            "stars": 1623,
+            "stars": 1624,
             "topics": [
               "anomalydetection",
               "awesome",
@@ -732,7 +732,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:17:55.785Z",
+    "last_updated": "2026-09-11T17:20:06.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
