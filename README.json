@@ -23,7 +23,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6517,
+                    "stars": 6518,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -48,7 +48,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-08-12T13:12:51Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
                     "stars": 2704,
@@ -69,7 +69,7 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2025-02-28T01:14:54Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
                     "stars": 2483,
@@ -446,7 +446,7 @@
                 "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1042,
+                "stars": 1041,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -471,7 +471,7 @@
                 "open_issues": 2,
                 "owner": "imperial-qore",
                 "repo": "TranAD",
-                "stars": 703,
+                "stars": 702,
                 "topics": [
                   "adversarial-learning",
                   "anomaly-detection",
@@ -690,7 +690,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
-            "stars": 1624,
+            "stars": 1626,
             "topics": [
               "anomalydetection",
               "awesome",
@@ -765,7 +765,7 @@
             "open_issues": 3,
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 864,
+            "stars": 865,
             "topics": [
               "awesome",
               "dynamic-graphs",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:04:27.842Z",
+    "last_updated": "2026-09-14T18:54:30.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 6,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3009,
+      "stars": 3011,
       "topics": [
         "anomalydetection",
         "awesome",
