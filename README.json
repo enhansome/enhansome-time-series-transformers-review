@@ -23,7 +23,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6518,
+                    "stars": 6519,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -117,7 +117,7 @@
                     "open_issues": 3,
                     "owner": "mlpotter",
                     "repo": "Transformer_Time_Series",
-                    "stars": 601,
+                    "stars": 602,
                     "topics": [
                       "attention",
                       "lstm",
@@ -165,7 +165,7 @@
                     "open_issues": 12,
                     "owner": "mattsherar",
                     "repo": "Temporal_Fusion_Transform",
-                    "stars": 292,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -471,7 +471,7 @@
                 "open_issues": 2,
                 "owner": "imperial-qore",
                 "repo": "TranAD",
-                "stars": 702,
+                "stars": 703,
                 "topics": [
                   "adversarial-learning",
                   "anomaly-detection",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:54:30.003Z",
+    "last_updated": "2026-09-15T17:47:08.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 6,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3011,
+      "stars": 3012,
       "topics": [
         "anomalydetection",
         "awesome",
