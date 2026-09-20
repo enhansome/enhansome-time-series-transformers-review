@@ -446,7 +446,7 @@
                 "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1043,
+                "stars": 1042,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -589,7 +589,7 @@
                 "open_issues": 7,
                 "owner": "ZZUFaceBookDL",
                 "repo": "GTN",
-                "stars": 160,
+                "stars": 161,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
@@ -690,7 +690,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
-            "stars": 1628,
+            "stars": 1630,
             "topics": [
               "anomalydetection",
               "awesome",
@@ -732,7 +732,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1227,
+            "stars": 1228,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:49:53.003Z",
+    "last_updated": "2026-09-20T17:02:44.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
