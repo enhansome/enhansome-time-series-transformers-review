@@ -23,7 +23,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6522,
+                    "stars": 6523,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -51,7 +51,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2709,
+                    "stars": 2710,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -446,7 +446,7 @@
                 "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1043,
+                "stars": 1042,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -732,7 +732,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1229,
+            "stars": 1230,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -802,7 +802,7 @@
             "open_issues": 2,
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 427,
+            "stars": 428,
             "topics": [
               "benchmark",
               "data-mining",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:56:09.887Z",
+    "last_updated": "2026-09-22T17:46:31.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
