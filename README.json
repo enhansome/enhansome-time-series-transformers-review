@@ -51,7 +51,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2715,
+                    "stars": 2716,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -72,7 +72,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2484,
+                    "stars": 2485,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -96,7 +96,7 @@
                     "open_issues": 13,
                     "owner": "MAZiqing",
                     "repo": "FEDformer",
-                    "stars": 814,
+                    "stars": 815,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -547,7 +547,7 @@
                 "open_issues": 35,
                 "owner": "gzerveas",
                 "repo": "mvts_transformer",
-                "stars": 876,
+                "stars": 875,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
@@ -732,7 +732,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1230,
+            "stars": 1232,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:56:56.765Z",
+    "last_updated": "2026-09-28T20:16:19.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -869,7 +869,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-08-08T15:03:54Z",
-      "open_issues": 6,
+      "open_issues": 5,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
       "stars": 3013,
