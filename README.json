@@ -51,7 +51,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2718,
+                    "stars": 2720,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -72,7 +72,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2485,
+                    "stars": 2486,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -841,7 +841,7 @@
             "open_issues": 0,
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 384,
+            "stars": 385,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:36:42.514Z",
+    "last_updated": "2026-10-01T19:04:51.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
