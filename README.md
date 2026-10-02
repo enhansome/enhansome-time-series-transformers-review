@@ -11,7 +11,7 @@ A professionally curated list of awesome resources (paper, code, data, etc.) on 
 
 We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
-For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) ⭐ 1,631 | 🐛 3 | 📅 2024-04-06.
+For general **AI for Time Series (AI4TS)** Papers, Tutorials, and Surveys at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) ⭐ 1,632 | 🐛 3 | 📅 2024-04-06.
 
 For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys) ⭐ 169 | 🐛 0 | 📅 2023-02-10.
 
@@ -120,7 +120,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ## Time Series Related Survey
 
-* More related time series surveys, tutorials, and papers can be found at this [repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) ⭐ 1,631 | 🐛 3 | 📅 2024-04-06.
+* More related time series surveys, tutorials, and papers can be found at this [repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) ⭐ 1,632 | 🐛 3 | 📅 2024-04-06.
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.10196) [\[Website\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ⭐ 1,233 | 🐛 3 | 📅 2024-12-22
 * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 866 | 🐛 3 | 📅 2024-08-09
 * Deep Learning for Multivariate Time Series Imputation: A Survey, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.04059) [\[Website\]](https://github.com/wenjiedu/awesome_imputation) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2026-08-03
@@ -161,4 +161,4 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

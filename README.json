@@ -690,7 +690,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
-            "stars": 1631,
+            "stars": 1632,
             "topics": [
               "anomalydetection",
               "awesome",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:04:51.589Z",
+    "last_updated": "2026-10-02T18:44:10.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -869,7 +869,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-08-08T15:03:54Z",
-      "open_issues": 5,
+      "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
       "stars": 3014,
