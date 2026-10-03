@@ -38,7 +38,7 @@
                 {
                   "node_type": "item",
                   "title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, in ICLR 2023. [paper]",
-                  "description": "[code]",
+                  "description": "yuqinie98/PatchTST",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -51,7 +51,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2720,
+                    "stars": 2719,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -104,7 +104,7 @@
                 {
                   "node_type": "item",
                   "title": "Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting, in NeurIPS 2019. [paper]",
-                  "description": "[code]",
+                  "description": "mlpotter/Transformer_Time_Series",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -152,7 +152,7 @@
                 {
                   "node_type": "item",
                   "title": "Temporal fusion transformers for interpretable multi-horizon time series forecasting, in International Journal of Forecasting 2021. [paper]",
-                  "description": "[code]",
+                  "description": "mattsherar/Temporal_Fusion_Transform",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -194,7 +194,7 @@
                 {
                   "node_type": "item",
                   "title": "Adversarial sparse transformer for time series forecasting, in NeurIPS 2020. [paper]",
-                  "description": "[code]",
+                  "description": "hihihihiwsf/AST",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -677,7 +677,7 @@
         {
           "node_type": "item",
           "title": "More related time series surveys, tutorials, and papers can be found at this repo",
-          "description": ".",
+          "description": "qingsongedu/awesome-AI-for-time-series-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:10.850Z",
+    "last_updated": "2026-10-03T05:13:40.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
