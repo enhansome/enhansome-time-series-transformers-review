@@ -51,7 +51,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2719,
+                    "stars": 2720,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:38:46.205Z",
+    "last_updated": "2026-10-04T17:52:35.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
