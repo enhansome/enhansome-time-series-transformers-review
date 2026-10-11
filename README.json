@@ -23,7 +23,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6530,
+                    "stars": 6531,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -256,7 +256,7 @@
                     "open_issues": 17,
                     "owner": "amazon-science",
                     "repo": "earth-forecasting-transformer",
-                    "stars": 472,
+                    "stars": 473,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -446,7 +446,7 @@
                 "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1043,
+                "stars": 1044,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -547,7 +547,7 @@
                 "open_issues": 35,
                 "owner": "gzerveas",
                 "repo": "mvts_transformer",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
@@ -802,7 +802,7 @@
             "open_issues": 2,
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 428,
+            "stars": 429,
             "topics": [
               "benchmark",
               "data-mining",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:04:11.781Z",
+    "last_updated": "2026-10-11T18:29:17.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3018,
+      "stars": 3020,
       "topics": [
         "anomalydetection",
         "awesome",
