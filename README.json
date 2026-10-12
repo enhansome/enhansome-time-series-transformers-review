@@ -23,7 +23,7 @@
                     "open_issues": 191,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6531,
+                    "stars": 6530,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -446,7 +446,7 @@
                 "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -471,7 +471,7 @@
                 "open_issues": 2,
                 "owner": "imperial-qore",
                 "repo": "TranAD",
-                "stars": 704,
+                "stars": 705,
                 "topics": [
                   "adversarial-learning",
                   "anomaly-detection",
@@ -732,7 +732,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1234,
+            "stars": 1235,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -765,7 +765,7 @@
             "open_issues": 3,
             "owner": "KimMeen",
             "repo": "Awesome-GNN4TS",
-            "stars": 866,
+            "stars": 867,
             "topics": [
               "awesome",
               "dynamic-graphs",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:29:17.093Z",
+    "last_updated": "2026-10-12T21:53:07.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3020,
+      "stars": 3021,
       "topics": [
         "anomalydetection",
         "awesome",
