@@ -96,7 +96,7 @@
                     "open_issues": 13,
                     "owner": "MAZiqing",
                     "repo": "FEDformer",
-                    "stars": 815,
+                    "stars": 814,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -186,7 +186,7 @@
                     "open_issues": 18,
                     "owner": "decisionintelligence",
                     "repo": "pathformer",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -732,7 +732,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1235,
+            "stars": 1237,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:58:01.523Z",
+    "last_updated": "2026-10-14T18:11:22.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3021,
+      "stars": 3020,
       "topics": [
         "anomalydetection",
         "awesome",
