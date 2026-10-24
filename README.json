@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-06-20T06:42:54Z",
-                    "open_issues": 191,
+                    "open_issues": 192,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6540,
+                    "stars": 6541,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -51,7 +51,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2738,
+                    "stars": 2740,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:58:27.802Z",
+    "last_updated": "2026-10-24T17:01:50.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
