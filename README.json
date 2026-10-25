@@ -23,7 +23,7 @@
                     "open_issues": 192,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6541,
+                    "stars": 6542,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -690,7 +690,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "awesome-AI-for-time-series-papers",
-            "stars": 1632,
+            "stars": 1633,
             "topics": [
               "anomalydetection",
               "awesome",
@@ -802,7 +802,7 @@
             "open_issues": 2,
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "benchmark",
               "data-mining",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:01:50.569Z",
+    "last_updated": "2026-10-25T17:16:00.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3021,
+      "stars": 3022,
       "topics": [
         "anomalydetection",
         "awesome",
