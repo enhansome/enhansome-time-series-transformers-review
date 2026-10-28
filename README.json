@@ -51,7 +51,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2740,
+                    "stars": 2741,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -72,7 +72,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2491,
+                    "stars": 2492,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -96,7 +96,7 @@
                     "open_issues": 13,
                     "owner": "MAZiqing",
                     "repo": "FEDformer",
-                    "stars": 816,
+                    "stars": 817,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -446,7 +446,7 @@
                 "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -471,7 +471,7 @@
                 "open_issues": 2,
                 "owner": "imperial-qore",
                 "repo": "TranAD",
-                "stars": 708,
+                "stars": 709,
                 "topics": [
                   "adversarial-learning",
                   "anomaly-detection",
@@ -841,7 +841,7 @@
             "open_issues": 0,
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:01:57.390Z",
+    "last_updated": "2026-10-28T19:08:51.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3022,
+      "stars": 3023,
       "topics": [
         "anomalydetection",
         "awesome",
