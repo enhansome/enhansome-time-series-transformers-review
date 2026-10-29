@@ -23,7 +23,7 @@
                     "open_issues": 192,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6541,
+                    "stars": 6540,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -117,7 +117,7 @@
                     "open_issues": 3,
                     "owner": "mlpotter",
                     "repo": "Transformer_Time_Series",
-                    "stars": 602,
+                    "stars": 601,
                     "topics": [
                       "attention",
                       "lstm",
@@ -495,7 +495,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2022-01-17T20:06:47Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "zackchen-lb",
                 "repo": "GTA",
                 "stars": 159,
@@ -802,7 +802,7 @@
             "open_issues": 2,
             "owner": "WenjieDu",
             "repo": "Awesome_Imputation",
-            "stars": 430,
+            "stars": 429,
             "topics": [
               "benchmark",
               "data-mining",
@@ -841,7 +841,7 @@
             "open_issues": 0,
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:08:51.931Z",
+    "last_updated": "2026-10-29T19:17:25.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
