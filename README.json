@@ -256,7 +256,7 @@
                     "open_issues": 17,
                     "owner": "amazon-science",
                     "repo": "earth-forecasting-transformer",
-                    "stars": 473,
+                    "stars": 475,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -446,7 +446,7 @@
                 "open_issues": 34,
                 "owner": "thuml",
                 "repo": "Anomaly-Transformer",
-                "stars": 1047,
+                "stars": 1048,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -495,7 +495,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2022-01-17T20:06:47Z",
-                "open_issues": 15,
+                "open_issues": 14,
                 "owner": "zackchen-lb",
                 "repo": "GTA",
                 "stars": 159,
@@ -732,7 +732,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1237,
+            "stars": 1238,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:17:25.526Z",
+    "last_updated": "2026-10-30T18:54:00.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3023,
+      "stars": 3024,
       "topics": [
         "anomalydetection",
         "awesome",
