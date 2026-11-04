@@ -298,7 +298,7 @@
                     "open_issues": 5,
                     "owner": "yoshall",
                     "repo": "AirFormer",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:17:52.795Z",
+    "last_updated": "2026-11-04T20:34:00.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
