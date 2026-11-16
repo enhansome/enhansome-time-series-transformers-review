@@ -78,7 +78,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 #### Spatio-Temporal Forecasting
 
 * Earthformer: Exploring Space-Time Transformers for Earth System Forecasting, in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/abs/2207.05833) [\[official code\]](https://github.com/amazon-science/earth-forecasting-transformer) ⭐ 476 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2023-07-16
-* Spatio-temporal graph transformer networks for pedestrian trajectory prediction, in *ECCV* 2020. [\[paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1636_ECCV_2020_paper.php) [\[official code\]](https://github.com/Majiker/STAR) ⭐ 435 | 🐛 13 | 🌐 Python | 📅 2024-03-04
+* Spatio-temporal graph transformer networks for pedestrian trajectory prediction, in *ECCV* 2020. [\[paper\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1636_ECCV_2020_paper.php) [\[official code\]](https://github.com/Majiker/STAR) ⭐ 437 | 🐛 13 | 🌐 Python | 📅 2024-03-04
 * AirFormer: Predicting Nationwide Air Quality in China with Transformers, in *AAAI* 2023. [\[paper\]](https://arxiv.org/abs/2211.15979) [\[official code\]](https://github.com/yoshall/AirFormer) ⭐ 166 | 🐛 5 | 🌐 Python | 📅 2022-12-29
 * Spatial-temporal transformer networks for traffic flow forecasting, in *arXiv* 2020. [\[paper\]](https://arxiv.org/abs/2001.02908) [\[official code\]](https://github.com/xumingxingsjtu/STTN) ⭐ 113 | 🐛 2 | 🌐 Python | 📅 2021-11-17
 * Bidirectional Spatial-Temporal Adaptive Transformer for Urban Traffic Flow Forecasting, in *TNNLS* 2022. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9810964)
@@ -86,7 +86,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 #### Event Irregular Time Series Modeling
 
-* Transformer Hawkes process, in *ICML* 2020. [\[paper\]](https://proceedings.mlr.press/v119/zuo20a.html) [\[official code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process) ⭐ 206 | 🐛 17 | 🌐 Python | 📅 2024-04-04
+* Transformer Hawkes process, in *ICML* 2020. [\[paper\]](https://proceedings.mlr.press/v119/zuo20a.html) [\[official code\]](https://github.com/SimiaoZuo/Transformer-Hawkes-Process) ⭐ 207 | 🐛 17 | 🌐 Python | 📅 2024-04-04
 * Self-attentive Hawkes process, in *ICML* 2020. [\[paper\]](http://proceedings.mlr.press/v119/zhang20q.html) [\[official code\]](https://github.com/QiangAIResearcher/sahp_repo) ⭐ 63 | 🐛 5 | 🌐 Python | 📅 2020-08-25
 * Transformer Embeddings of Irregularly Spaced Events and Their Participants, in *ICLR* 2022. [\[paper\]](https://openreview.net/forum?id=Rty5g9imm7H) [\[official code\]](https://github.com/yangalan123/anhp-andtt) ⚠️ Archived
 * HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences，in *NeurIPS* 2022. [\[paper\]](https://arxiv.org/abs/2210.01753) [\[official code\]](https://github.com/ant-research/hypro_tpp) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2022-11-20
@@ -124,7 +124,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.10196) [\[Website\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ⭐ 1,241 | 🐛 3 | 📅 2024-12-22
 * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 868 | 🐛 3 | 📅 2024-08-09
 * Deep Learning for Multivariate Time Series Imputation: A Survey, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.04059) [\[Website\]](https://github.com/wenjiedu/awesome_imputation) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2026-08-03
-* Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS) ⭐ 389 | 🐛 0 | 📅 2024-04-28
+* Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS) ⭐ 390 | 🐛 0 | 📅 2024-04-28
 * What Can Large Language Models Tell Us about Time Series Analysis, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.02713)
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
 * Neural temporal point processes: a review, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2104.03528v5)
@@ -161,4 +161,4 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

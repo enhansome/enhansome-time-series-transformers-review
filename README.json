@@ -277,7 +277,7 @@
                     "open_issues": 13,
                     "owner": "cunjunyu",
                     "repo": "STAR",
-                    "stars": 435,
+                    "stars": 437,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -350,7 +350,7 @@
                     "open_issues": 17,
                     "owner": "SimiaoZuo",
                     "repo": "Transformer-Hawkes-Process",
-                    "stars": 206,
+                    "stars": 207,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -841,7 +841,7 @@
             "open_issues": 0,
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 389,
+            "stars": 390,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:28:43.157Z",
+    "last_updated": "2026-11-16T23:03:24.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
