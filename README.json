@@ -72,7 +72,7 @@
                     "open_issues": 9,
                     "owner": "thuml",
                     "repo": "Autoformer",
-                    "stars": 2495,
+                    "stars": 2496,
                     "topics": [
                       "deep-learning",
                       "time-series"
@@ -471,7 +471,7 @@
                 "open_issues": 2,
                 "owner": "imperial-qore",
                 "repo": "TranAD",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "adversarial-learning",
                   "anomaly-detection",
@@ -841,7 +841,7 @@
             "open_issues": 0,
             "owner": "qingsongedu",
             "repo": "Awesome-SSL4TS",
-            "stars": 390,
+            "stars": 389,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:03:24.530Z",
+    "last_updated": "2026-11-17T21:55:36.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3026,
+      "stars": 3028,
       "topics": [
         "anomalydetection",
         "awesome",
