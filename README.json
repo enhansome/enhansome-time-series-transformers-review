@@ -23,7 +23,7 @@
                     "open_issues": 192,
                     "owner": "zhouhaoyi",
                     "repo": "Informer2020",
-                    "stars": 6542,
+                    "stars": 6543,
                     "topics": [
                       "deep-learning",
                       "forecasting",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:33:42.706Z",
+    "last_updated": "2026-11-21T20:16:09.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
