@@ -97,7 +97,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 * Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy, in *ICLR* 2022. [\[paper\]](https://arxiv.org/abs/2110.02642) [\[official code\]](https://github.com/thuml/Anomaly-Transformer) ⭐ 1,049 | 🐛 34 | 🌐 Python | 📅 2023-12-29
 * TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data, in *VLDB* 2022. [\[paper\]](https://arxiv.org/abs/2201.07284) [\[official code\]](https://github.com/imperial-qore/tranad) ⭐ 711 | 🐛 2 | 🌐 Python | 📅 2024-07-25
-* Learning graph structures with transformer for multivariate time series anomaly detection in IoT, in *IEEE Internet of Things Journal* 2021. [\[paper\]](https://arxiv.org/abs/2104.03466) [\[official code\]](https://github.com/ZEKAICHEN/GTA) ⭐ 158 | 🐛 14 | 🌐 Python | 📅 2022-01-17
+* Learning graph structures with transformer for multivariate time series anomaly detection in IoT, in *IEEE Internet of Things Journal* 2021. [\[paper\]](https://arxiv.org/abs/2104.03466) [\[official code\]](https://github.com/ZEKAICHEN/GTA) ⭐ 159 | 🐛 14 | 🌐 Python | 📅 2022-01-17
 * CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences, in *KDD* 2022. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3534678.3539155) [\[official code\]](https://github.com/mmichaelzhang/CAT) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-02-20
 * MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection，in *NeurIPS* 2023. [\[paper\]](https://openreview.net/forum?id=UFW67uduJd)
 * DCT-GAN: Dilated Convolutional Transformer-based GAN for Time Series Anomaly Detection, in *TKDE* 2022. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9626552)
@@ -121,7 +121,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 ## Time Series Related Survey
 
 * More related time series surveys, tutorials, and papers can be found at this [repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) ⭐ 1,635 | 🐛 3 | 📅 2024-04-06.
-* Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.10196) [\[Website\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ⭐ 1,240 | 🐛 3 | 📅 2024-12-22
+* Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2310.10196) [\[Website\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ⭐ 1,241 | 🐛 3 | 📅 2024-12-22
 * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2307.03759) [\[Website\]](https://github.com/KimMeen/Awesome-GNN4TS) ⭐ 867 | 🐛 3 | 📅 2024-08-09
 * Deep Learning for Multivariate Time Series Imputation: A Survey, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.04059) [\[Website\]](https://github.com/wenjiedu/awesome_imputation) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2026-08-03
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2306.10125) [\[Website\]](https://github.com/qingsongedu/Awesome-SSL4TS) ⭐ 388 | 🐛 0 | 📅 2024-04-28
@@ -161,4 +161,4 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

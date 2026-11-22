@@ -498,7 +498,7 @@
                 "open_issues": 14,
                 "owner": "zackchen-lb",
                 "repo": "GTA",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:31.395Z"
@@ -732,7 +732,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:16:09.063Z",
+    "last_updated": "2026-11-22T20:29:26.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3028,
+      "stars": 3029,
       "topics": [
         "anomalydetection",
         "awesome",
