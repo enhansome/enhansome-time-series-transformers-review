@@ -51,7 +51,7 @@
                     "open_issues": 61,
                     "owner": "yuqinie98",
                     "repo": "PatchTST",
-                    "stars": 2752,
+                    "stars": 2751,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:13:31.395Z"
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:17:23.267Z",
+    "last_updated": "2026-11-25T22:49:48.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.",
@@ -872,7 +872,7 @@
       "open_issues": 4,
       "owner": "qingsongedu",
       "repo": "time-series-transformers-review",
-      "stars": 3030,
+      "stars": 3031,
       "topics": [
         "anomalydetection",
         "awesome",
